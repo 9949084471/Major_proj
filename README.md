@@ -174,5 +174,6 @@ else { noTone(buzzer2); }
 
 }
 
+Conclusion:
 
-This is how a SecurityAlarm works, it only beeps if it is dark and someone is detected by ir sensor. And it can be also controlled manually from anywhere in the world using ThingSpeak IoT cloud.
+This is how a SecurityAlarm works, it only beeps if it is dark and someone is detected by ir sensor.
